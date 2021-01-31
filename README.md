@@ -1,5 +1,5 @@
 # Byte Defense by mennadc
-Here you can read the [**Project Doc**](https://github.com/mennadc/Byte_Defense_by_mennadc.git/tree/main/documents)
+Here you can read the [**Project File**](https://github.com/mennadc/Byte_Defense_by_mennadc/blob/main/documents/Dossier%20du%20Projet%20Byte%20Defense.pdf)
 
 ## Introduction - the project's aim
 The game takes place in a computer network, an environment in which all kinds of malware is spread. But fortunately, there are ways to track them down and keep the computer healthy. Malware does not only infect the machine. And they will not hesitate to use their peculiarities to damage and destroy network security systems. Cleverly use the capabilities of your protectors (the turrets) to defeat all threats, and defeat the final boss, the Trojan horse.
